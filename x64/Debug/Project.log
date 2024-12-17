@@ -1,0 +1,6 @@
+﻿  Phase 2 22L-6930.cpp
+D:\oops\Project\Project\Phase 2 22L-6930.cpp(32,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\oops\Project\Project\Phase 2 22L-6930.cpp(993,9): warning C4101: 'temp': unreferenced local variable
+D:\oops\Project\Project\Phase 2 22L-6930.cpp(879): warning C4715: 'Fb::SearchPageById': not all control paths return a value
+D:\oops\Project\Project\Phase 2 22L-6930.cpp(887): warning C4715: 'Fb::SearchUserById': not all control paths return a value
+  Project.vcxproj -> D:\oops\Project\x64\Debug\Project.exe
